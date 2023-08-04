@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
-"""
-Basic annotations - add
-"""
 
+def concat(str1: str, str2: str) -> str:
+    """
+    Concatenates two input strings and returns the result.
 
-def add(a: float, b: float) -> float:
+    Parameters:
+        str1 (str): The first string to be concatenated.
+        str2 (str): The second string to be concatenated.
+
+    Returns:
+        str: The concatenated string.
     """
-    function to add two floats
-    """
-    return a + b
+    return str1 + str2
