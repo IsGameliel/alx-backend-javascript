@@ -1,9 +1,3 @@
-# 0x00. Python - Variable Annotations
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark: duck typing | python | type annotations | variable annotations
-
 ## Resources
 ### For this project, students are expected to look at this concept:
 * [Advanced Python](https://intranet.hbtn.io/concepts/136)
